@@ -1,6 +1,5 @@
-# HR-ANALYTICS-DASHBOARD
+# HR-ANALYTICS-DASHBOARD - POWER BI PROJECT
 HR Analytics Dashboard built in Power BI to analyze employee attrition across age, salary, gender, education, job role, and experience. Includes key metrics like attrition rate, avg age, salary, and department filters to identify high-risk groups and improve workforce decisions.
-**📊 HR Analytics Dashboard – Power BI Project**
 
 This Power BI dashboard provides a complete overview of employee attrition trends and workforce insights. It helps HR teams identify high-risk groups, understand attrition drivers, and make data-driven decisions to improve employee retention.
 
